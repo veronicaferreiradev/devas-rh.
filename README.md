@@ -45,7 +45,7 @@ Este projeto consiste em um sistema de gerenciamento de funcionários, desenvolv
  ![Image](https://github.com/user-attachments/assets/4983e46b-2792-4350-a6c8-18ce69b3acfb)
 
 
- - Atulizando os Dandos da Joaquina
+ - Atulizando os Dados da Joaquina
 
  ![Image](https://github.com/user-attachments/assets/64380348-6313-49a0-9104-2b6097a13d21)
 
